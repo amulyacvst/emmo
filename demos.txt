@@ -1,0 +1,11 @@
+<!doctype>
+<html>
+<head>
+<titile>demo</title>
+</head>
+<body>
+<script>
+var name=prompt enter
+</script>
+</body>
+</html>
